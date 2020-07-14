@@ -2,8 +2,8 @@
 using namespace std;
 int main()
 {
-int a=1;
+int c=8;
 int b=2;
-cout<<a+b;
+cout<<c+b;
 return 0;
 }
